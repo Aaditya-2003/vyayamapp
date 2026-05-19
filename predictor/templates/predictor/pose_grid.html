@@ -1,0 +1,25 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select Asana</title>
+</head>
+<body>
+<h2>Select an Asana</h2>
+<div style="display: flex; flex-wrap: wrap;">
+    {% for pose in poses %}
+        <form action="{% url 'pose_instructions' pose.id %}" method="get" style="margin: 5px;">
+            <button type="submit" style="border:none; background:none;">
+                <img src="{% static pose.image %}" alt="{{ pose.name }}" width="100" height="100" style="object-fit: cover;"><br>
+                {{ pose.name }}
+            </button>
+        </form>
+    {% endfor %}
+</div>
+<form method="post" action="{% url 'logout' %}">
+    {% csrf_token %}
+    <button type="submit">Logout</button>
+</form>
+</body>
+</html>

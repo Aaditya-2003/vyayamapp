@@ -1,0 +1,36 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ pose.name }} Instructions</title>
+</head>
+<body>
+    <h2>{{ pose.name }}</h2>
+    <img src="{% static 'predictor/images/pose'|add:pose_id|stringformat:'d'|add:'.jpg' %}" alt="{{ pose.name }}" width="300"><br>
+
+    <h3>Instructions</h3>
+    <p>{{ pose.instructions }}</p>
+
+    <h3>Benefits</h3>
+    <p>{{ pose.benefits }}</p>
+
+    <h3>Recommended Time</h3>
+    <p>{{ pose.recommended_time }}</p>
+
+    <div style="margin-top: 20px;">
+        {% if prev_id %}
+            <a href="{% url 'pose_instructions' prev_id %}"><button>Previous</button></a>
+        {% endif %}
+        {% if next_id %}
+            <a href="{% url 'pose_instructions' next_id %}"><button>Next</button></a>
+        {% else %}
+            <a href="{% url 'live_pose' pose_id %}"><button>Start Pose Correction</button></a>
+        {% endif %}
+    </div>
+
+    <div style="margin-top: 20px;">
+        <a href="{% url 'pose_grid' %}">Back to Pose Selection</a>
+    </div>
+</body>
+</html>

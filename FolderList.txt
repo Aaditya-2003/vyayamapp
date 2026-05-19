@@ -1,0 +1,258 @@
+F:\vyayamapp\.vscode
+F:\vyayamapp\accounts
+F:\vyayamapp\predictor
+F:\vyayamapp\static
+F:\vyayamapp\staticfiles
+F:\vyayamapp\vyayamapp
+F:\vyayamapp\accounts\migrations
+F:\vyayamapp\accounts\templates
+F:\vyayamapp\accounts\__pycache__
+F:\vyayamapp\accounts\migrations\__pycache__
+F:\vyayamapp\accounts\templates\accounts
+F:\vyayamapp\predictor\correction
+F:\vyayamapp\predictor\migrations
+F:\vyayamapp\predictor\models
+F:\vyayamapp\predictor\pose_corrections
+F:\vyayamapp\predictor\templates
+F:\vyayamapp\predictor\utils
+F:\vyayamapp\predictor\__pycache__
+F:\vyayamapp\predictor\correction\__pycache__
+F:\vyayamapp\predictor\migrations\__pycache__
+F:\vyayamapp\predictor\templates\predictor
+F:\vyayamapp\predictor\utils\__pycache__
+F:\vyayamapp\static\predirectory
+F:\vyayamapp\static\predirectory\images
+F:\vyayamapp\static\predirectory\images\adho mukha svanasana
+F:\vyayamapp\static\predirectory\images\adho mukha vriksasana
+F:\vyayamapp\static\predirectory\images\agnistambhasana
+F:\vyayamapp\static\predirectory\images\ananda balasana
+F:\vyayamapp\static\predirectory\images\anantasana
+F:\vyayamapp\static\predirectory\images\anjaneyasana
+F:\vyayamapp\static\predirectory\images\ardha bhekasana
+F:\vyayamapp\static\predirectory\images\ardha chandrasana
+F:\vyayamapp\static\predirectory\images\ardha matsyendrasana
+F:\vyayamapp\static\predirectory\images\ardha pincha mayurasana
+F:\vyayamapp\static\predirectory\images\ardha uttanasana
+F:\vyayamapp\static\predirectory\images\ashtanga namaskara
+F:\vyayamapp\static\predirectory\images\astavakrasana
+F:\vyayamapp\static\predirectory\images\baddha konasana
+F:\vyayamapp\static\predirectory\images\bakasana
+F:\vyayamapp\static\predirectory\images\balasana
+F:\vyayamapp\static\predirectory\images\bhairavasana
+F:\vyayamapp\static\predirectory\images\bharadvajasana i
+F:\vyayamapp\static\predirectory\images\bhekasana
+F:\vyayamapp\static\predirectory\images\bhujangasana
+F:\vyayamapp\static\predirectory\images\bhujapidasana
+F:\vyayamapp\static\predirectory\images\bitilasana
+F:\vyayamapp\static\predirectory\images\camatkarasana
+F:\vyayamapp\static\predirectory\images\chakravakasana
+F:\vyayamapp\static\predirectory\images\chaturanga dandasana
+F:\vyayamapp\static\predirectory\images\dandasana
+F:\vyayamapp\static\predirectory\images\dhanurasana
+F:\vyayamapp\static\predirectory\images\durvasasana
+F:\vyayamapp\static\predirectory\images\dwi pada viparita dandasana
+F:\vyayamapp\static\predirectory\images\eka pada koundinyanasana i
+F:\vyayamapp\static\predirectory\images\eka pada koundinyanasana ii
+F:\vyayamapp\static\predirectory\images\eka pada rajakapotasana
+F:\vyayamapp\static\predirectory\images\eka pada rajakapotasana ii
+F:\vyayamapp\static\predirectory\images\ganda bherundasana
+F:\vyayamapp\static\predirectory\images\garbha pindasana
+F:\vyayamapp\static\predirectory\images\garudasana
+F:\vyayamapp\static\predirectory\images\gomukhasana
+F:\vyayamapp\static\predirectory\images\halasana
+F:\vyayamapp\static\predirectory\images\hanumanasana
+F:\vyayamapp\static\predirectory\images\janu sirsasana
+F:\vyayamapp\static\predirectory\images\kapotasana
+F:\vyayamapp\static\predirectory\images\krounchasana
+F:\vyayamapp\static\predirectory\images\kurmasana
+F:\vyayamapp\static\predirectory\images\lolasana
+F:\vyayamapp\static\predirectory\images\makara adho mukha svanasana
+F:\vyayamapp\static\predirectory\images\makarasana
+F:\vyayamapp\static\predirectory\images\malasana
+F:\vyayamapp\static\predirectory\images\marichyasana i
+F:\vyayamapp\static\predirectory\images\marichyasana iii
+F:\vyayamapp\static\predirectory\images\marjaryasana
+F:\vyayamapp\static\predirectory\images\matsyasana
+F:\vyayamapp\static\predirectory\images\mayurasana
+F:\vyayamapp\static\predirectory\images\natarajasana
+F:\vyayamapp\static\predirectory\images\padangusthasana
+F:\vyayamapp\static\predirectory\images\padmasana
+F:\vyayamapp\static\predirectory\images\parighasana
+F:\vyayamapp\static\predirectory\images\paripurna navasana
+F:\vyayamapp\static\predirectory\images\parivrtta janu sirsasana
+F:\vyayamapp\static\predirectory\images\parivrtta parsvakonasana
+F:\vyayamapp\static\predirectory\images\parivrtta trikonasana
+F:\vyayamapp\static\predirectory\images\parsva bakasana
+F:\vyayamapp\static\predirectory\images\parsvottanasana
+F:\vyayamapp\static\predirectory\images\pasasana
+F:\vyayamapp\static\predirectory\images\paschimottanasana
+F:\vyayamapp\static\predirectory\images\phalakasana
+F:\vyayamapp\static\predirectory\images\pincha mayurasana
+F:\vyayamapp\static\predirectory\images\prasarita padottanasana
+F:\vyayamapp\static\predirectory\images\purvottanasana
+F:\vyayamapp\static\predirectory\images\salabhasana
+F:\vyayamapp\static\predirectory\images\salamba bhujangasana
+F:\vyayamapp\static\predirectory\images\salamba sarvangasana
+F:\vyayamapp\static\predirectory\images\salamba sirsasana
+F:\vyayamapp\static\predirectory\images\savasana
+F:\vyayamapp\static\predirectory\images\setu bandha sarvangasana
+F:\vyayamapp\static\predirectory\images\simhasana
+F:\vyayamapp\static\predirectory\images\sukhasana
+F:\vyayamapp\static\predirectory\images\supta baddha konasana
+F:\vyayamapp\static\predirectory\images\supta matsyendrasana
+F:\vyayamapp\static\predirectory\images\supta padangusthasana
+F:\vyayamapp\static\predirectory\images\supta virasana
+F:\vyayamapp\static\predirectory\images\tadasana
+F:\vyayamapp\static\predirectory\images\tittibhasana
+F:\vyayamapp\static\predirectory\images\tolasana
+F:\vyayamapp\static\predirectory\images\tulasana
+F:\vyayamapp\static\predirectory\images\upavistha konasana
+F:\vyayamapp\static\predirectory\images\urdhva dhanurasana
+F:\vyayamapp\static\predirectory\images\urdhva hastasana
+F:\vyayamapp\static\predirectory\images\urdhva mukha svanasana
+F:\vyayamapp\static\predirectory\images\urdhva prasarita eka padasana
+F:\vyayamapp\static\predirectory\images\ustrasana
+F:\vyayamapp\static\predirectory\images\utkatasana
+F:\vyayamapp\static\predirectory\images\uttana shishosana
+F:\vyayamapp\static\predirectory\images\uttanasana
+F:\vyayamapp\static\predirectory\images\utthita ashwa sanchalanasana
+F:\vyayamapp\static\predirectory\images\utthita hasta padangustasana
+F:\vyayamapp\static\predirectory\images\utthita parsvakonasana
+F:\vyayamapp\static\predirectory\images\utthita trikonasana
+F:\vyayamapp\static\predirectory\images\vajrasana
+F:\vyayamapp\static\predirectory\images\vasisthasana
+F:\vyayamapp\static\predirectory\images\viparita karani
+F:\vyayamapp\static\predirectory\images\virabhadrasana i
+F:\vyayamapp\static\predirectory\images\virabhadrasana ii
+F:\vyayamapp\static\predirectory\images\virabhadrasana iii
+F:\vyayamapp\static\predirectory\images\virasana
+F:\vyayamapp\static\predirectory\images\vriksasana
+F:\vyayamapp\static\predirectory\images\vrischikasana
+F:\vyayamapp\static\predirectory\images\virabhadrasana i\yoganidrasana
+F:\vyayamapp\staticfiles\admin
+F:\vyayamapp\staticfiles\predirectory
+F:\vyayamapp\staticfiles\admin\css
+F:\vyayamapp\staticfiles\admin\img
+F:\vyayamapp\staticfiles\admin\js
+F:\vyayamapp\staticfiles\admin\css\vendor
+F:\vyayamapp\staticfiles\admin\css\vendor\select2
+F:\vyayamapp\staticfiles\admin\img\gis
+F:\vyayamapp\staticfiles\admin\js\admin
+F:\vyayamapp\staticfiles\admin\js\vendor
+F:\vyayamapp\staticfiles\admin\js\vendor\jquery
+F:\vyayamapp\staticfiles\admin\js\vendor\select2
+F:\vyayamapp\staticfiles\admin\js\vendor\xregexp
+F:\vyayamapp\staticfiles\admin\js\vendor\select2\i18n
+F:\vyayamapp\staticfiles\predirectory\images
+F:\vyayamapp\staticfiles\predirectory\images\adho mukha svanasana
+F:\vyayamapp\staticfiles\predirectory\images\adho mukha vriksasana
+F:\vyayamapp\staticfiles\predirectory\images\agnistambhasana
+F:\vyayamapp\staticfiles\predirectory\images\ananda balasana
+F:\vyayamapp\staticfiles\predirectory\images\anantasana
+F:\vyayamapp\staticfiles\predirectory\images\anjaneyasana
+F:\vyayamapp\staticfiles\predirectory\images\ardha bhekasana
+F:\vyayamapp\staticfiles\predirectory\images\ardha chandrasana
+F:\vyayamapp\staticfiles\predirectory\images\ardha matsyendrasana
+F:\vyayamapp\staticfiles\predirectory\images\ardha pincha mayurasana
+F:\vyayamapp\staticfiles\predirectory\images\ardha uttanasana
+F:\vyayamapp\staticfiles\predirectory\images\ashtanga namaskara
+F:\vyayamapp\staticfiles\predirectory\images\astavakrasana
+F:\vyayamapp\staticfiles\predirectory\images\baddha konasana
+F:\vyayamapp\staticfiles\predirectory\images\bakasana
+F:\vyayamapp\staticfiles\predirectory\images\balasana
+F:\vyayamapp\staticfiles\predirectory\images\bhairavasana
+F:\vyayamapp\staticfiles\predirectory\images\bharadvajasana i
+F:\vyayamapp\staticfiles\predirectory\images\bhekasana
+F:\vyayamapp\staticfiles\predirectory\images\bhujangasana
+F:\vyayamapp\staticfiles\predirectory\images\bhujapidasana
+F:\vyayamapp\staticfiles\predirectory\images\bitilasana
+F:\vyayamapp\staticfiles\predirectory\images\camatkarasana
+F:\vyayamapp\staticfiles\predirectory\images\chakravakasana
+F:\vyayamapp\staticfiles\predirectory\images\chaturanga dandasana
+F:\vyayamapp\staticfiles\predirectory\images\dandasana
+F:\vyayamapp\staticfiles\predirectory\images\dhanurasana
+F:\vyayamapp\staticfiles\predirectory\images\durvasasana
+F:\vyayamapp\staticfiles\predirectory\images\dwi pada viparita dandasana
+F:\vyayamapp\staticfiles\predirectory\images\eka pada koundinyanasana i
+F:\vyayamapp\staticfiles\predirectory\images\eka pada koundinyanasana ii
+F:\vyayamapp\staticfiles\predirectory\images\eka pada rajakapotasana
+F:\vyayamapp\staticfiles\predirectory\images\eka pada rajakapotasana ii
+F:\vyayamapp\staticfiles\predirectory\images\ganda bherundasana
+F:\vyayamapp\staticfiles\predirectory\images\garbha pindasana
+F:\vyayamapp\staticfiles\predirectory\images\garudasana
+F:\vyayamapp\staticfiles\predirectory\images\gomukhasana
+F:\vyayamapp\staticfiles\predirectory\images\halasana
+F:\vyayamapp\staticfiles\predirectory\images\hanumanasana
+F:\vyayamapp\staticfiles\predirectory\images\janu sirsasana
+F:\vyayamapp\staticfiles\predirectory\images\kapotasana
+F:\vyayamapp\staticfiles\predirectory\images\krounchasana
+F:\vyayamapp\staticfiles\predirectory\images\kurmasana
+F:\vyayamapp\staticfiles\predirectory\images\lolasana
+F:\vyayamapp\staticfiles\predirectory\images\makara adho mukha svanasana
+F:\vyayamapp\staticfiles\predirectory\images\makarasana
+F:\vyayamapp\staticfiles\predirectory\images\malasana
+F:\vyayamapp\staticfiles\predirectory\images\marichyasana i
+F:\vyayamapp\staticfiles\predirectory\images\marichyasana iii
+F:\vyayamapp\staticfiles\predirectory\images\marjaryasana
+F:\vyayamapp\staticfiles\predirectory\images\matsyasana
+F:\vyayamapp\staticfiles\predirectory\images\mayurasana
+F:\vyayamapp\staticfiles\predirectory\images\natarajasana
+F:\vyayamapp\staticfiles\predirectory\images\padangusthasana
+F:\vyayamapp\staticfiles\predirectory\images\padmasana
+F:\vyayamapp\staticfiles\predirectory\images\parighasana
+F:\vyayamapp\staticfiles\predirectory\images\paripurna navasana
+F:\vyayamapp\staticfiles\predirectory\images\parivrtta janu sirsasana
+F:\vyayamapp\staticfiles\predirectory\images\parivrtta parsvakonasana
+F:\vyayamapp\staticfiles\predirectory\images\parivrtta trikonasana
+F:\vyayamapp\staticfiles\predirectory\images\parsva bakasana
+F:\vyayamapp\staticfiles\predirectory\images\parsvottanasana
+F:\vyayamapp\staticfiles\predirectory\images\pasasana
+F:\vyayamapp\staticfiles\predirectory\images\paschimottanasana
+F:\vyayamapp\staticfiles\predirectory\images\phalakasana
+F:\vyayamapp\staticfiles\predirectory\images\pincha mayurasana
+F:\vyayamapp\staticfiles\predirectory\images\prasarita padottanasana
+F:\vyayamapp\staticfiles\predirectory\images\purvottanasana
+F:\vyayamapp\staticfiles\predirectory\images\salabhasana
+F:\vyayamapp\staticfiles\predirectory\images\salamba bhujangasana
+F:\vyayamapp\staticfiles\predirectory\images\salamba sarvangasana
+F:\vyayamapp\staticfiles\predirectory\images\salamba sirsasana
+F:\vyayamapp\staticfiles\predirectory\images\savasana
+F:\vyayamapp\staticfiles\predirectory\images\setu bandha sarvangasana
+F:\vyayamapp\staticfiles\predirectory\images\simhasana
+F:\vyayamapp\staticfiles\predirectory\images\sukhasana
+F:\vyayamapp\staticfiles\predirectory\images\supta baddha konasana
+F:\vyayamapp\staticfiles\predirectory\images\supta matsyendrasana
+F:\vyayamapp\staticfiles\predirectory\images\supta padangusthasana
+F:\vyayamapp\staticfiles\predirectory\images\supta virasana
+F:\vyayamapp\staticfiles\predirectory\images\tadasana
+F:\vyayamapp\staticfiles\predirectory\images\tittibhasana
+F:\vyayamapp\staticfiles\predirectory\images\tolasana
+F:\vyayamapp\staticfiles\predirectory\images\tulasana
+F:\vyayamapp\staticfiles\predirectory\images\upavistha konasana
+F:\vyayamapp\staticfiles\predirectory\images\urdhva dhanurasana
+F:\vyayamapp\staticfiles\predirectory\images\urdhva hastasana
+F:\vyayamapp\staticfiles\predirectory\images\urdhva mukha svanasana
+F:\vyayamapp\staticfiles\predirectory\images\urdhva prasarita eka padasana
+F:\vyayamapp\staticfiles\predirectory\images\ustrasana
+F:\vyayamapp\staticfiles\predirectory\images\utkatasana
+F:\vyayamapp\staticfiles\predirectory\images\uttana shishosana
+F:\vyayamapp\staticfiles\predirectory\images\uttanasana
+F:\vyayamapp\staticfiles\predirectory\images\utthita ashwa sanchalanasana
+F:\vyayamapp\staticfiles\predirectory\images\utthita hasta padangustasana
+F:\vyayamapp\staticfiles\predirectory\images\utthita parsvakonasana
+F:\vyayamapp\staticfiles\predirectory\images\utthita trikonasana
+F:\vyayamapp\staticfiles\predirectory\images\vajrasana
+F:\vyayamapp\staticfiles\predirectory\images\vasisthasana
+F:\vyayamapp\staticfiles\predirectory\images\viparita karani
+F:\vyayamapp\staticfiles\predirectory\images\virabhadrasana i
+F:\vyayamapp\staticfiles\predirectory\images\virabhadrasana ii
+F:\vyayamapp\staticfiles\predirectory\images\virabhadrasana iii
+F:\vyayamapp\staticfiles\predirectory\images\virasana
+F:\vyayamapp\staticfiles\predirectory\images\vriksasana
+F:\vyayamapp\staticfiles\predirectory\images\vrischikasana
+F:\vyayamapp\staticfiles\predirectory\images\yoganidrasana
+F:\vyayamapp\vyayamapp\predictor
+F:\vyayamapp\vyayamapp\templates
+F:\vyayamapp\vyayamapp\__pycache__
+F:\vyayamapp\vyayamapp\templates\accounts
+F:\vyayamapp\vyayamapp\templates\predictor
